@@ -1,13 +1,13 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: icodingc
+title: 
 description: icodingc's blog,use Jekyll and github pages.
 keywords: blog,Jekyll,github,gh-pages
-baseurl:  /icodingc # if you have suburl as homepage like '/homepage', please change it to '/homepage'
+baseurl:  /xuesen # if you have suburl as homepage like '/homepage', please change it to '/homepage'
 url: http://icodingc.github.io/cv.html  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /icodingc/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
+img_path: /xuesen/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -28,9 +28,9 @@ author:  # change following line to your infomation.
   desc: Introduce myself will be here.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  #name: jalpc
+  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
