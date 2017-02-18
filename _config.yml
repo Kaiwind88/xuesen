@@ -11,9 +11,9 @@ img_path: /xuesen/static/assets/img/blog  # url should be changed to '/homepage/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: xuesen zhang  # Be used at blog posts' author.
+  first_name: xuesen  # Be used at index page about me section.
+  last_name: zhang  # Be used at index page about me section.
   cv: http://icodingc.github.io/cv.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   email: xuesen.me@gmail.com  # Leave blank if you don't have now
   facebook_username: xuesen  # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.
+  desc: 北京邮电大学计算机硕士，对ML/DL/CV感兴趣。
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
