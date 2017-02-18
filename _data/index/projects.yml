@@ -19,7 +19,7 @@
   i18n:
   gh_user: icodingc
   repo: CS231n
-  img: /static/assets/img/landing/cs231n.jpg
+  img: /static/assets/img/landing/cs231n.jpeg
   desc: cs231n@stanford assignment
 
 - name: CS224d
