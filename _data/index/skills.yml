@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: DL/ML, CV, NLP, TensorFLow, Caffe, Python/C++, Linux/Git
-percentage: 80, 85, 65, 85, 80, 75, 60
+aspects: DL/ML, NLP, CV, TensorFLow, Caffe, Python/C++, Linux/Git
+percentage: 80, 65, 85, 85, 80, 75, 60
