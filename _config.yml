@@ -12,13 +12,13 @@ img_path: /xuesen/static/assets/img/blog  # url should be changed to '/homepage/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: xuesen zhang  # Be used at blog posts' author.
-  first_name: 张  # Be used at index page about me section.
-  last_name: 学森  # Be used at index page about me section.
+  first_name: 张学森  # Be used at index page about me section.
+  last_name:   # Be used at index page about me section.
   cv: http://icodingc.github.io/cv.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
-  email: xuesen.me@gmail.com  # Leave blank if you don't have now
+  email: xuesen121415@gmail.com  # Leave blank if you don't have now
   # facebook_username:   # Leave blank if you don't have now
   github_username: icodingc  # Leave blank if you don't have now
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/xuesenpic.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache
     - name: fa-linux

@@ -1,10 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Nice
+    detail: 基于多负例度量学习的图像检索
+    i18n: company_b
+  desc:
+    detail: 基于深度学习以及度量学习获取更好的图像表示，在DeepFashion & CARS196数据集上取得最好检索性能。
+            代码基于TensorFlow编写(Submitted to ICCV2017)。
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2016 - Now
+    i18n: company_b_date
+  job:
+    detail: 毕业设计
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Nice Internship
     i18n: company_a
   desc:
-    detail: 在Nice公司使用深度学习做一些图像相关的工作
+    detail: 在Nice公司使用深度学习做一些图像相关的工作，包括部分图像服务Caffe转TensorFlow，
+            艺术滤镜(Neural style)的开发等。
     i18n: company_a_desc
   date:
     detail: July. 2016 - Oct. 2016
@@ -14,16 +30,46 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-# - name:
-#     detail: Company B
-#     i18n: company_b
-#   desc:
-#     detail: I worked at Company B ...
-#     i18n: company_b_desc
-#   date:
-#     detail: Jun. 2015
-#     i18n: company_b_date
-#   job:
-#     detail: Full Stack Developer
-#     i18n: company_b_job
-#   icon: fa-plus-square
+- name:
+    detail: 服装图像检索
+    i18n: company_a
+  desc:
+    detail: 基于深度学习技术实现CBIR，主要开发工具为Caffe。使用AlexNet, Autoencoder, 近邻检索等技术。
+    i18n: company_a_desc
+  date:
+    detail: Mar. 2016 - Jul. 2016
+    i18n: company_a_date
+  job:
+    detail: 实验室项目
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 北京邮电大学
+    i18n: company_a
+  desc:
+    detail: 智能科学与技术实验室，主要研究深度学习用于图像检索，对其他视觉任务像检测，分割也有了解。
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2015 - Mar. 2018
+    i18n: company_a_date
+  job:
+    detail: 计算机工学硕士
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 东北大学
+    i18n: company_a
+  desc:
+    detail: 计算机科学与技术。 
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2011 - Jun. 2015
+    i18n: company_a_date
+  job:
+    detail: 计算机学士
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
