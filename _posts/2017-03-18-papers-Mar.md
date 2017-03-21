@@ -27,3 +27,12 @@ icon: icon-html
 <br>
 
 ## **DiscoGAN**
+
+## **Unsupervised Deep Embedding for Clustering Analysis**
+- [code](https://github.com/piiswrong/dec)+[review](http://icml.cc/2016/reviews/231.txt)
+- 使用DAE无监督学习 得到初始化的网络权值$\theta$以及聚类中心$\{\mu_j\}_{j=1}^k$
+- 使用t-分布 计算嵌入相似度{as soft assignment}==>Q
+- 使用KL(P||Q)来优化分布{惯用思路}
+- P目标分布的选取:一个常用方案是使用delta分布(1/0)表示，但是it is more natural and flexible to use softer probabilistic targets(review: smart choice)。因此他自己设计了一个P{为什么？没看懂}.
+- **竟然还优化聚类中心，对聚类中心求梯度**
+- 迭代优化也有贡献	
