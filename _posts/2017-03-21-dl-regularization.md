@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "深度学习正则化"
-date:   2017-03-18
+date:   2017-03-21
 desc: "DL book chapter 7"
 keywords: "reading, DL"
 categories: [Deeplearning]

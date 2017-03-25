@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GAN那些事"
-date:   2017-02-18
+date:   2017-03-20
 desc: "一些GAN的资料"
 keywords: "GAN"
 categories: [Deeplearning]
